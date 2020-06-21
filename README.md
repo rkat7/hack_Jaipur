@@ -1,6 +1,4 @@
-## UC Berkeley Blockchain Challenge Lab
-
-### CROWDCOIN
+###This hack's primary aim is to connect an inventor with a funder.
 
 #### Why is the current crowdfunding model not a win-win situation?
 Despite their popularity, crowdfunding platforms have been increasingly subjected to scrutiny by investors. This is mainly due to most start-ups not living up to their projected growth. Large projects were found to be completely obsolete after a couple of years and investors (mainly community backers) lost their hard earned money.
@@ -29,9 +27,7 @@ Web app related code under pages folder in index.js (/pages/index.js)
 
 #### We have also included screenshots of the web app into our repo for your reference.
 
-##### Here is the link to our Whitepaper for further details : https://docs.google.com/document/d/1ZQJM0ZvRq40fc3SpjKcZ1IBei-ThmGLK7lCqWjUOpBo/edit#
-
-
+####Future plan: We plan to expand this project by developing a supply chain management system for the delivery of the purchased item and also creating a sustainable business model around it.
 
 
 
