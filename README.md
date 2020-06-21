@@ -30,6 +30,9 @@ Web app related code under pages folder in index.js (/pages/index.js)
 #### We are also applying under the Domain Category
 The domain: http://staysafeanddonatesafewithus.online/
 
+
+#### The UI path's related images can be seen in images folder under the names ui1 and ui2
+
 #### DEMO Link : https://youtu.be/-NZpb5ABzpg
 
 #### We have also included screenshots of the web app into our repo for your reference.
