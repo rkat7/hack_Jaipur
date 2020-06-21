@@ -23,11 +23,11 @@ Web app related code under pages folder in index.js (/pages/index.js)
 4. It will start on localhost. 
 5. Open localhost in your browser and see the working . 
 
-#### DEMO Link : https://youtu.be/0npnzoLWCa8
+#### DEMO Link : https://youtu.be/-NZpb5ABzpg
 
 #### We have also included screenshots of the web app into our repo for your reference.
 
-#### Future plan: We plan to expand this project by developing a supply chain management system for the delivery of the purchased item and also creating a sustainable business model around it.
+#### Future plan: We plan to extend this project by developing a supply chain management system for the delivery of the purchased item and also creating a sustainable business model around it.
 
 
 
