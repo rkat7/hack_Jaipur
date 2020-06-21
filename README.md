@@ -29,6 +29,7 @@ Web app related code under pages folder in index.js (/pages/index.js)
 
 #### We are also applying under the Domain Category
 The domain: http://staysafeanddonatesafewithus.online/
+(View on Mobile)
 
 
 #### The UI path's related images can be seen in images folder under the names ui1 and ui2
