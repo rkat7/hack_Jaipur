@@ -1,4 +1,4 @@
-###This hack's primary aim is to connect an inventor with a funder.
+####This hack's primary aim is to connect an inventor with a funder.
 
 #### Why is the current crowdfunding model not a win-win situation?
 Despite their popularity, crowdfunding platforms have been increasingly subjected to scrutiny by investors. This is mainly due to most start-ups not living up to their projected growth. Large projects were found to be completely obsolete after a couple of years and investors (mainly community backers) lost their hard earned money.
