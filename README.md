@@ -27,6 +27,9 @@ Web app related code under pages folder in index.js (/pages/index.js)
 4. It will start on localhost. 
 5. Open localhost in your browser and see the working . 
 
+#### We are also applying under the Domain Category
+The domain: http://staysafeanddonatesafewithus.online/
+
 #### DEMO Link : https://youtu.be/-NZpb5ABzpg
 
 #### We have also included screenshots of the web app into our repo for your reference.
